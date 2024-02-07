@@ -12,7 +12,6 @@ I'm a software engineer based in Mississauga, Ontario. In the last 2 years, I wo
 
 -   🔭 I'm currently working on Golang and Next.js.</li>
 -   💻 I'm a developer on Overmind, a platform where developers compete on building Aptos smart contracts and dApps. You can find my profile <a href="https://overmind.xyz/@krissolui">here</a>.</li>
--   📝 Check out my <a href="https://drive.google.com/file/d/1K2o2R-xieqMaYimY-96uWK7D-t7Vcd-q/view?usp=drive_link">resume</a>.</li>
 -   🎙️ Listen to tech and business podcasts during commute and while cooking. [Here](#-podcasts-i-love) are some of my favorite podcasts.</li>
 -   ☕ Fun Fact! SUPER coffee lover but unaffected by caffeine. Good for the consumption limit, but terrible when having late night work 😪.</li>
 
